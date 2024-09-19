@@ -88,4 +88,3 @@ The project reveals key insights about how:
 ## 8. Acknowledgments
 
 - This project is part of **Experiment 4** in **ECE 2112: Advanced Computer Programming and Algorithms**.
-- Special thanks to the **University of Santo Tomas**, Faculty of Engineering, and Electronics Engineering Department.
