@@ -13,7 +13,7 @@
 **Electronics Engineering Department**  
 
 ## Academic Year
-**First Term, AY 2021 – 2022**
+**First Term, AY 2024 – 2025**
 
 ---
 
